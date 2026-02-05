@@ -17,7 +17,3 @@ https://www.kaggle.com/datasets/thedevastator/philippine-health-indicators
 - data/: Raw and processed datasets
 - outputs/: Figures, tables, and reports
 - src/: Reusable Python modules
-
-## Setup (Google Colab / Local)
-```bash
-pip install -r requirements.txt
